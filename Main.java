@@ -1,7 +1,7 @@
 /*
 * A simple programme to download towel.blinkenlights.nl ASCII animation as text file
 * GitHub - https://github.com/anjanborah/Download_towel_blinkenlights_nl
-* Author - Anjan Borah
+* Author - Anjan Borah < anjanborah@aol.com >
 * Copyright ( c ) 2013 Anjan Borah
 */
 
